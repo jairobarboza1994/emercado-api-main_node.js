@@ -1,1 +1,2 @@
-# emercado-api-main_node.js
+emercado-api
+JSONs container para simular una Api REST para el ecommerce e-Mercado.
